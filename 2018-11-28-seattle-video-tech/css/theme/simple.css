@@ -20,6 +20,7 @@ body {
 
 .reveal {
   font-family: 'Quicksand', sans-serif;
+  text-shadow: 2px 2px 0px rgba(0,0,0, 0.3);
   font-size: 40px;
   font-weight: normal;
   color: #FFF;
@@ -56,8 +57,9 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: none;
-  text-shadow: none;
-  word-wrap: break-word; }
+  text-shadow: 3px 3px 0px rgba(0,0,0, 0.1);
+  word-wrap: break-word;
+}
 
 .reveal h1 {
   font-size: 3.77em; }
